@@ -1,0 +1,14 @@
+{
+  "name": "magoco-terminal",
+  "version": "3.0.0",
+  "description": "MAGoCo Terminal — Full-featured web terminal with session management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-basic-auth": "^1.2.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
